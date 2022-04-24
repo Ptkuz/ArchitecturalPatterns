@@ -1,0 +1,12 @@
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\bin\Debug\net6.0\FactoryMethodLibrary.deps.json
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\bin\Debug\net6.0\FactoryMethodLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\bin\Debug\net6.0\FactoryMethodLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.csproj.AssemblyReference.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.AssemblyInfoInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.AssemblyInfo.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\refint\FactoryMethodLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\FactoryMethodLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\FactoryMethodLibrary\obj\Debug\net6.0\ref\FactoryMethodLibrary.dll

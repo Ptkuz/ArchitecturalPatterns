@@ -1,0 +1,28 @@
+﻿<Window x:Class="ArchitecturalPatterns.FactoryMethod"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArchitecturalPatterns"
+        mc:Ignorable="d"
+        Title="FactoryMethod" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Создать новый процессор Intel: "/>
+            <TextBox x:Name="processorNameIntel"/>
+            <Button x:Name="buttonIntel" Content="Добавить новый процессор Intel" Click="buttonIntel_Click" />
+            <ListBox x:Name="listProcessorIntel"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Создать новый процессор Intel: "/>
+            <TextBox x:Name="processorNameAMD"/>
+            <Button x:Name="buttonAMD" Content="Добавить новый процессор AMD" Click="buttonAMD_Click"/>
+            <ListBox x:Name="listProcessorAMD"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArchitecturalPatterns/1.0.0": {
+        "dependencies": {
+          "FactoryMethodLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ArchitecturalPatterns.dll": {}
+        }
+      },
+      "FactoryMethodLibrary/1.0.0": {
+        "runtime": {
+          "FactoryMethodLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchitecturalPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryMethodLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
