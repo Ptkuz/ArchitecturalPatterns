@@ -7,11 +7,17 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AbstactFactoryMethod.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="FactoryMethod.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AbstactFactoryMethod.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="FactoryMethod.xaml">
       <SubType>Designer</SubType>
     </Page>

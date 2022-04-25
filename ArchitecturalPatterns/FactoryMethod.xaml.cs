@@ -56,11 +56,6 @@ namespace ArchitecturalPatterns
             listProcessorAMD.ItemsSource = listProcessorAMDCol;
         }
 
-        private void ViewProcessors() 
-        {
-           // foreach (var processor in listProcessorIntelCol)
-
-        
-        }
+       
     }
 }

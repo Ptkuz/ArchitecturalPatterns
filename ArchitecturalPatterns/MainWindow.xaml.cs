@@ -30,5 +30,11 @@ namespace ArchitecturalPatterns
             FactoryMethod factoryMethod = new FactoryMethod();
             factoryMethod.ShowDialog();
         }
+
+        private void TreeViewItem_Selected_1(object sender, RoutedEventArgs e)
+        {
+            AbstactFactoryMethod factoryMethod = new AbstactFactoryMethod();
+            factoryMethod.ShowDialog();
+        }
     }
 }

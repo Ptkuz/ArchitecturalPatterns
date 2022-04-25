@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
+      "AbstractFactoryLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AbstractFactoryLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractFactoryLibrary.dll": {}
+        }
+      },
       "FactoryMethodLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "AbstractFactoryLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFactoryLibrary/AbstractFactoryLibrary.csproj",
+      "msbuildProject": "../AbstractFactoryLibrary/AbstractFactoryLibrary.csproj"
+    },
     "FactoryMethodLibrary/1.0.0": {
       "type": "project",
       "path": "../FactoryMethodLibrary/FactoryMethodLibrary.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
+      "AbstractFactoryLibrary >= 1.0.0",
       "FactoryMethodLibrary >= 1.0.0"
     ]
   },
@@ -58,6 +74,9 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
+            "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\AbstractFactoryLibrary\\AbstractFactoryLibrary.csproj": {
+              "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\AbstractFactoryLibrary\\AbstractFactoryLibrary.csproj"
+            },
             "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj": {
               "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj"
             }

@@ -24,3 +24,7 @@ C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debu
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\FactoryMethod.g.cs
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\FactoryMethod.baml
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\ArchitecturalPatterns.csproj.CopyComplete
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\AbstractFactoryLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\AbstractFactoryLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\AbstactFactoryMethod.g.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\AbstactFactoryMethod.baml

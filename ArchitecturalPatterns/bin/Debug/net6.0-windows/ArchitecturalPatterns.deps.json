@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v6.0": {
       "ArchitecturalPatterns/1.0.0": {
         "dependencies": {
+          "AbstractFactoryLibrary": "1.0.0",
           "FactoryMethodLibrary": "1.0.0"
         },
         "runtime": {
           "ArchitecturalPatterns.dll": {}
+        }
+      },
+      "AbstractFactoryLibrary/1.0.0": {
+        "runtime": {
+          "AbstractFactoryLibrary.dll": {}
         }
       },
       "FactoryMethodLibrary/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "ArchitecturalPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

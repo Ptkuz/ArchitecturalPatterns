@@ -11,7 +11,7 @@
             <TextBlock Text="Паттерны проектирования" FontWeight="Bold" />
             <TreeViewItem Header="Порождающие паттерны">
                 <TreeViewItem Header="Фабричный метод (Factory Method)" Selected="TreeViewItem_Selected"/>
-                <TreeViewItem Header="Абстрактная фабрика (Absract Factory)" />
+                <TreeViewItem Header="Абстрактная фабрика (Absract Factory)" Selected="TreeViewItem_Selected_1" />
                 <TreeViewItem Header="Одиночка (Singleton)" />
                 <TreeViewItem Header="Прототип (Prototype)" />
                 <TreeViewItem Header="Строиттель (Builder)" />
