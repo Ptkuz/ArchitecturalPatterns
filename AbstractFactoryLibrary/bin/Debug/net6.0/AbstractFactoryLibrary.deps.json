@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "AbstractFactoryLibrary/1.0.0": {
+        "dependencies": {
+          "FactoryMethodLibrary": "1.0.0"
+        },
         "runtime": {
           "AbstractFactoryLibrary.dll": {}
+        }
+      },
+      "FactoryMethodLibrary/1.0.0": {
+        "runtime": {
+          "FactoryMethodLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AbstractFactoryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryMethodLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

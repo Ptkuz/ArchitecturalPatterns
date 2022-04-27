@@ -10,6 +10,7 @@
         "dependencies": {
           "AbstractFactoryLibrary": "1.0.0",
           "FactoryMethodLibrary": "1.0.0",
+          "PrototypeLibrary": "1.0.0",
           "SingletonLibrary": "1.0.0"
         },
         "runtime": {
@@ -17,6 +18,9 @@
         }
       },
       "AbstractFactoryLibrary/1.0.0": {
+        "dependencies": {
+          "FactoryMethodLibrary": "1.0.0"
+        },
         "runtime": {
           "AbstractFactoryLibrary.dll": {}
         }
@@ -24,6 +28,11 @@
       "FactoryMethodLibrary/1.0.0": {
         "runtime": {
           "FactoryMethodLibrary.dll": {}
+        }
+      },
+      "PrototypeLibrary/1.0.0": {
+        "runtime": {
+          "PrototypeLibrary.dll": {}
         }
       },
       "SingletonLibrary/1.0.0": {
@@ -45,6 +54,11 @@
       "sha512": ""
     },
     "FactoryMethodLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrototypeLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

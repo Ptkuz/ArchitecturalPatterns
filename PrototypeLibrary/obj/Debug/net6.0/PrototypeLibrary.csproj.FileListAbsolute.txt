@@ -1,0 +1,12 @@
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\bin\Debug\net6.0\PrototypeLibrary.deps.json
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\bin\Debug\net6.0\PrototypeLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\bin\Debug\net6.0\PrototypeLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.csproj.AssemblyReference.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.AssemblyInfoInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.AssemblyInfo.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\refint\PrototypeLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\PrototypeLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\PrototypeLibrary\obj\Debug\net6.0\ref\PrototypeLibrary.dll

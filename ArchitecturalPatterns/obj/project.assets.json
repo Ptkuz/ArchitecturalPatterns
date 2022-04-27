@@ -5,6 +5,9 @@
       "AbstractFactoryLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FactoryMethodLibrary": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/AbstractFactoryLibrary.dll": {}
         },
@@ -20,6 +23,16 @@
         },
         "runtime": {
           "bin/placeholder/FactoryMethodLibrary.dll": {}
+        }
+      },
+      "PrototypeLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PrototypeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrototypeLibrary.dll": {}
         }
       },
       "SingletonLibrary/1.0.0": {
@@ -45,6 +58,11 @@
       "path": "../FactoryMethodLibrary/FactoryMethodLibrary.csproj",
       "msbuildProject": "../FactoryMethodLibrary/FactoryMethodLibrary.csproj"
     },
+    "PrototypeLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PrototypeLibrary/PrototypeLibrary.csproj",
+      "msbuildProject": "../PrototypeLibrary/PrototypeLibrary.csproj"
+    },
     "SingletonLibrary/1.0.0": {
       "type": "project",
       "path": "../SingletonLibrary/SingletonLibrary.csproj",
@@ -55,6 +73,7 @@
     "net6.0-windows7.0": [
       "AbstractFactoryLibrary >= 1.0.0",
       "FactoryMethodLibrary >= 1.0.0",
+      "PrototypeLibrary >= 1.0.0",
       "SingletonLibrary >= 1.0.0"
     ]
   },
@@ -95,6 +114,9 @@
             },
             "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj": {
               "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj"
+            },
+            "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\PrototypeLibrary\\PrototypeLibrary.csproj": {
+              "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\PrototypeLibrary\\PrototypeLibrary.csproj"
             },
             "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\SingletonLibrary\\SingletonLibrary.csproj": {
               "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\SingletonLibrary\\SingletonLibrary.csproj"

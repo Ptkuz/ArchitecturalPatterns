@@ -33,8 +33,6 @@ namespace ArchitecturalPatterns
             amd = new AMD("AMD");
             listProcessorIntelCol = new ObservableCollection<string>();
             listProcessorAMDCol = new ObservableCollection<string>();
-            listProcessorIntel.ItemsSource = listProcessorIntelCol;
-            listProcessorAMD.ItemsSource = listProcessorAMDCol;
 
 
         }

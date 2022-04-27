@@ -42,5 +42,11 @@ namespace ArchitecturalPatterns
             Singleton singleton = new Singleton();
             singleton.ShowDialog();
         }
+
+        private void TreeViewItem_Selected_3(object sender, RoutedEventArgs e)
+        {
+            Prototype prototype = new Prototype();
+            prototype.ShowDialog();
+        }
     }
 }

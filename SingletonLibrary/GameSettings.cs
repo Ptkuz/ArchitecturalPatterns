@@ -4,7 +4,7 @@
     {
 
         
-
+        private static object syncRoot = new object();
 
         private static GameSettings _instance;
 
@@ -17,8 +17,11 @@
 
         public static GameSettings getInstance(ScreenResolution screenResolution) 
         {
-            if (_instance == null)
-                _instance = new GameSettings(screenResolution);
+            lock (syncRoot)
+            {
+                if (_instance == null)
+                    _instance = new GameSettings(screenResolution);
+            }
             return _instance;
         }
         

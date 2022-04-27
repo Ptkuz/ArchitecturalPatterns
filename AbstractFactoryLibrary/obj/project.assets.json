@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "FactoryMethodLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FactoryMethodLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryMethodLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FactoryMethodLibrary/1.0.0": {
+      "type": "project",
+      "path": "../FactoryMethodLibrary/FactoryMethodLibrary.csproj",
+      "msbuildProject": "../FactoryMethodLibrary/FactoryMethodLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "FactoryMethodLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ptkuz\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj": {
+              "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

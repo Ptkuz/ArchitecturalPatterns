@@ -10,3 +10,6 @@ C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\obj\Deb
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\obj\Debug\net6.0\refint\AbstractFactoryLibrary.dll
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\obj\Debug\net6.0\AbstractFactoryLibrary.pdb
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\obj\Debug\net6.0\ref\AbstractFactoryLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\bin\Debug\net6.0\FactoryMethodLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\bin\Debug\net6.0\FactoryMethodLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\AbstractFactoryLibrary\obj\Debug\net6.0\AbstractFactoryLibrary.csproj.CopyComplete

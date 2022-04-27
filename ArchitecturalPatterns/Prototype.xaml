@@ -1,0 +1,35 @@
+﻿<Window x:Class="ArchitecturalPatterns.Prototype"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArchitecturalPatterns"
+        mc:Ignorable="d"
+        Title="Prototype" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Штурмовики 501 легиона: "/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="ID: "/>
+                <TextBox Width="100" x:Name="idTrooper"/>
+                <Button Content="Добавить штурмовика" x:Name="btnAddTrooper" Click="btnAddTrooper_Click"/>
+                <Button Content="Клонировать" x:Name="btnCloneTrooper" Click="btnCloneTrooper_Click" IsEnabled="False"/>
+            </StackPanel>
+            <ListBox x:Name="listTroopers" DisplayMemberPath="Id" SelectionChanged="listTroopers_SelectionChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Темный штурмовик: "/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="ID: "/>
+                <TextBox Width="100" x:Name="idDarkTrooper"/>
+                <Button Content="Добавить темного штурмовика" x:Name="btnAddDarkTrooper" Click="btnAddDarkTrooper_Click"/>
+                <Button Content="Клонировать" x:Name="btnCloneDarkTrooper" Click="btnCloneDarkTrooper_Click"  IsEnabled="False"/>
+            </StackPanel>
+            <ListBox x:Name="listDarkTroopers" DisplayMemberPath="Id" SelectionChanged="listDarkTroopers_SelectionChanged"/>
+        </StackPanel>
+    </Grid>
+</Window>
