@@ -36,3 +36,7 @@ C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debu
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Prototype.baml
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\PrototypeLibrary.dll
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\PrototypeLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\BuilderLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\BuilderLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Builder.g.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Builder.baml

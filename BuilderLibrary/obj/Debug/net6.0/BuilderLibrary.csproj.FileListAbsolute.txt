@@ -1,0 +1,12 @@
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\bin\Debug\net6.0\BuilderLibrary.deps.json
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\bin\Debug\net6.0\BuilderLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\bin\Debug\net6.0\BuilderLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.csproj.AssemblyReference.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.AssemblyInfo.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\refint\BuilderLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\BuilderLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\BuilderLibrary\obj\Debug\net6.0\ref\BuilderLibrary.dll

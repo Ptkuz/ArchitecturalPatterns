@@ -9,6 +9,7 @@
       "ArchitecturalPatterns/1.0.0": {
         "dependencies": {
           "AbstractFactoryLibrary": "1.0.0",
+          "BuilderLibrary": "1.0.0",
           "FactoryMethodLibrary": "1.0.0",
           "PrototypeLibrary": "1.0.0",
           "SingletonLibrary": "1.0.0"
@@ -23,6 +24,11 @@
         },
         "runtime": {
           "AbstractFactoryLibrary.dll": {}
+        }
+      },
+      "BuilderLibrary/1.0.0": {
+        "runtime": {
+          "BuilderLibrary.dll": {}
         }
       },
       "FactoryMethodLibrary/1.0.0": {
@@ -49,6 +55,11 @@
       "sha512": ""
     },
     "AbstractFactoryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuilderLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

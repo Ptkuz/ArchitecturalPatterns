@@ -15,6 +15,16 @@
           "bin/placeholder/AbstractFactoryLibrary.dll": {}
         }
       },
+      "BuilderLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BuilderLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuilderLibrary.dll": {}
+        }
+      },
       "FactoryMethodLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -53,6 +63,11 @@
       "path": "../AbstractFactoryLibrary/AbstractFactoryLibrary.csproj",
       "msbuildProject": "../AbstractFactoryLibrary/AbstractFactoryLibrary.csproj"
     },
+    "BuilderLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BuilderLibrary/BuilderLibrary.csproj",
+      "msbuildProject": "../BuilderLibrary/BuilderLibrary.csproj"
+    },
     "FactoryMethodLibrary/1.0.0": {
       "type": "project",
       "path": "../FactoryMethodLibrary/FactoryMethodLibrary.csproj",
@@ -72,6 +87,7 @@
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "AbstractFactoryLibrary >= 1.0.0",
+      "BuilderLibrary >= 1.0.0",
       "FactoryMethodLibrary >= 1.0.0",
       "PrototypeLibrary >= 1.0.0",
       "SingletonLibrary >= 1.0.0"
@@ -111,6 +127,9 @@
           "projectReferences": {
             "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\AbstractFactoryLibrary\\AbstractFactoryLibrary.csproj": {
               "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\AbstractFactoryLibrary\\AbstractFactoryLibrary.csproj"
+            },
+            "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\BuilderLibrary\\BuilderLibrary.csproj": {
+              "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\BuilderLibrary\\BuilderLibrary.csproj"
             },
             "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj": {
               "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\FactoryMethodLibrary\\FactoryMethodLibrary.csproj"

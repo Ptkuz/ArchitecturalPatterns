@@ -48,5 +48,11 @@ namespace ArchitecturalPatterns
             Prototype prototype = new Prototype();
             prototype.ShowDialog();
         }
+
+        private void TreeViewItem_Selected_4(object sender, RoutedEventArgs e)
+        {
+            Builder builder = new Builder();
+            builder.ShowDialog();
+        }
     }
 }

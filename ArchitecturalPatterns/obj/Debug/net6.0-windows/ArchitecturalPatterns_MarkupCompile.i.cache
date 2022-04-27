@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\App.xaml
-5-752699156
+6218400967
 
-9-234760552
-1981720245887
-AbstactFactoryMethod.xaml;FactoryMethod.xaml;MainWindow.xaml;Prototype.xaml;Singleton.xaml;
+10-200361388
+199426436813
+AbstactFactoryMethod.xaml;Builder.xaml;FactoryMethod.xaml;MainWindow.xaml;Prototype.xaml;Singleton.xaml;
 
-False
+True
 
