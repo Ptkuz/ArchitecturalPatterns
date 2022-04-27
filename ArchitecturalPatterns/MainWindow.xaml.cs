@@ -36,5 +36,11 @@ namespace ArchitecturalPatterns
             AbstactFactoryMethod factoryMethod = new AbstactFactoryMethod();
             factoryMethod.ShowDialog();
         }
+
+        private void TreeViewItem_Selected_2(object sender, RoutedEventArgs e)
+        {
+            Singleton singleton = new Singleton();
+            singleton.ShowDialog();
+        }
     }
 }

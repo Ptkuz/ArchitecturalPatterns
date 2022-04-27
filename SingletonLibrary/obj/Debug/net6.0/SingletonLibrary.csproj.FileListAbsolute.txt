@@ -1,0 +1,12 @@
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\bin\Debug\net6.0\SingletonLibrary.deps.json
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\bin\Debug\net6.0\SingletonLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\bin\Debug\net6.0\SingletonLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.csproj.AssemblyReference.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.AssemblyInfoInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.AssemblyInfo.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\refint\SingletonLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\SingletonLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\SingletonLibrary\obj\Debug\net6.0\ref\SingletonLibrary.dll

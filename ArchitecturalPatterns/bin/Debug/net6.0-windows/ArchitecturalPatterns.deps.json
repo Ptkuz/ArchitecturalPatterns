@@ -9,7 +9,8 @@
       "ArchitecturalPatterns/1.0.0": {
         "dependencies": {
           "AbstractFactoryLibrary": "1.0.0",
-          "FactoryMethodLibrary": "1.0.0"
+          "FactoryMethodLibrary": "1.0.0",
+          "SingletonLibrary": "1.0.0"
         },
         "runtime": {
           "ArchitecturalPatterns.dll": {}
@@ -23,6 +24,11 @@
       "FactoryMethodLibrary/1.0.0": {
         "runtime": {
           "FactoryMethodLibrary.dll": {}
+        }
+      },
+      "SingletonLibrary/1.0.0": {
+        "runtime": {
+          "SingletonLibrary.dll": {}
         }
       }
     }
@@ -39,6 +45,11 @@
       "sha512": ""
     },
     "FactoryMethodLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

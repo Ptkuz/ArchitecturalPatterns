@@ -12,7 +12,7 @@
             <TreeViewItem Header="Порождающие паттерны">
                 <TreeViewItem Header="Фабричный метод (Factory Method)" Selected="TreeViewItem_Selected"/>
                 <TreeViewItem Header="Абстрактная фабрика (Absract Factory)" Selected="TreeViewItem_Selected_1" />
-                <TreeViewItem Header="Одиночка (Singleton)" />
+                <TreeViewItem Header="Одиночка (Singleton)" Selected="TreeViewItem_Selected_2" />
                 <TreeViewItem Header="Прототип (Prototype)" />
                 <TreeViewItem Header="Строиттель (Builder)" />
             </TreeViewItem>
