@@ -40,3 +40,7 @@ C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debu
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\BuilderLibrary.pdb
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Builder.g.cs
 C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Builder.baml
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\StrategyLibrary.dll
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\bin\Debug\net6.0-windows\StrategyLibrary.pdb
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Strategy.g.cs
+C:\Users\ptkuz\source\repos\ArchitecturalPatterns\ArchitecturalPatterns\obj\Debug\net6.0-windows\Strategy.baml

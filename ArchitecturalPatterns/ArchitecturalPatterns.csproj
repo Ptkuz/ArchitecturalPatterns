@@ -13,6 +13,7 @@
     <ProjectReference Include="..\FactoryMethodLibrary\FactoryMethodLibrary.csproj" />
     <ProjectReference Include="..\PrototypeLibrary\PrototypeLibrary.csproj" />
     <ProjectReference Include="..\SingletonLibrary\SingletonLibrary.csproj" />
+    <ProjectReference Include="..\StrategyLibrary\StrategyLibrary.csproj" />
   </ItemGroup>
 
 </Project>

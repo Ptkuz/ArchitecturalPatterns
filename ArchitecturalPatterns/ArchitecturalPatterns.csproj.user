@@ -22,6 +22,9 @@
     <Compile Update="Singleton.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Strategy.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="AbstactFactoryMethod.xaml">
@@ -40,6 +43,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Singleton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Strategy.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -17,7 +17,7 @@
                 <TreeViewItem Header="Строиттель (Builder)" Selected="TreeViewItem_Selected_4" />
             </TreeViewItem>
             <TreeViewItem Header="Поттерны поведения">
-                <TreeViewItem Header="Стратегия (Strategy)" />
+                <TreeViewItem Header="Стратегия (Strategy)" Selected="TreeViewItem_Selected_5" />
                 <TreeViewItem Header="Наблюдатель (Obserber)" />
                 <TreeViewItem Header="Команда (Command)" />
                 <TreeViewItem Header="Шаблонный метод (Template Method)"/>

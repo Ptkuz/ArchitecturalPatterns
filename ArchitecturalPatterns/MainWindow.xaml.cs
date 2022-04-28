@@ -54,5 +54,11 @@ namespace ArchitecturalPatterns
             Builder builder = new Builder();
             builder.ShowDialog();
         }
+
+        private void TreeViewItem_Selected_5(object sender, RoutedEventArgs e)
+        {
+            Strategy strategy = new Strategy();
+            strategy.ShowDialog();
+        }
     }
 }

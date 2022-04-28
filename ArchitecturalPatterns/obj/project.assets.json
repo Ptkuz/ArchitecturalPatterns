@@ -54,6 +54,16 @@
         "runtime": {
           "bin/placeholder/SingletonLibrary.dll": {}
         }
+      },
+      "StrategyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StrategyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StrategyLibrary.dll": {}
+        }
       }
     }
   },
@@ -82,6 +92,11 @@
       "type": "project",
       "path": "../SingletonLibrary/SingletonLibrary.csproj",
       "msbuildProject": "../SingletonLibrary/SingletonLibrary.csproj"
+    },
+    "StrategyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StrategyLibrary/StrategyLibrary.csproj",
+      "msbuildProject": "../StrategyLibrary/StrategyLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -90,7 +105,8 @@
       "BuilderLibrary >= 1.0.0",
       "FactoryMethodLibrary >= 1.0.0",
       "PrototypeLibrary >= 1.0.0",
-      "SingletonLibrary >= 1.0.0"
+      "SingletonLibrary >= 1.0.0",
+      "StrategyLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -139,6 +155,9 @@
             },
             "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\SingletonLibrary\\SingletonLibrary.csproj": {
               "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\SingletonLibrary\\SingletonLibrary.csproj"
+            },
+            "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\StrategyLibrary\\StrategyLibrary.csproj": {
+              "projectPath": "C:\\Users\\ptkuz\\source\\repos\\ArchitecturalPatterns\\StrategyLibrary\\StrategyLibrary.csproj"
             }
           }
         }
